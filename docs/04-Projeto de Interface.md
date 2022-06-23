@@ -11,9 +11,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação.
 
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+(![Diagrama de Fluxo](https://user-images.githubusercontent.com/83379675/161452191-6b6b074e-1a43-4939-8098-fecd56a69319.png))
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
@@ -22,9 +22,16 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Exemplo de Wireframe](https://user-images.githubusercontent.com/83379675/161449889-02f5ff85-caf3-4bc0-bf40-3612354cb8ec.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+No canto esquerdo, onde esta a pagina de login, como pode ser visto não á local para se increver, isso por que o App sera de uso exclusivo da empresa, sendo necessario um ADM para criar o campo.
+No Canto direito, pode se ver ja uma gama de pastas, na qual todas tem um conteudo, semelhamnte ao Windows Explore, cada uma leva a um local na qual possui informações para o serviço do tecnico, tambem é possivel ver os botão para adicionar conteudo, e outro para efetuar uma pesquisa.
+
+![Captura de tela 2022-04-20 161912](https://user-images.githubusercontent.com/83379675/164306678-913ad21d-ded0-4a2c-978c-36461702633d.png)
+
+
+No Canto esquerdo, temos a ideia de subpastas, cada uma levando a mais uma subpastas ou diretamente ao propio conteudo do App, e ja no canto direito, temos ai a representação de como um conteudo seria apresentado, sera possivel adicionar, campos de texto como mostrado no exemplo e tambem fotos, e links levando a serviços externos, como por explo uma planilha de controle especifica.
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
